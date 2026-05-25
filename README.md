@@ -6,7 +6,7 @@ I contribute to open source projects where I can go deep on real engineering pro
 
 ---
 
-## What I'm working on
+## What I've worked upon
 
 - **[CRoaring](https://github.com/RoaringBitmap/CRoaring)** — Adding `mask()` and `maskClosed()` interval methods to the Roaring Bitmap C library ([PR #816](https://github.com/RoaringBitmap/CRoaring/pull/816))
 - **[NForge]([https://github.com/nforge](https://github.com/Marbjo07/NForge/pull/51#event-25926066205))** — Implemented matrix multiplication pipeline with CPU backend, batch broadcasting, CUDA stub, and Catch2 test suite
