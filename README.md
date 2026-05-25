@@ -1,4 +1,4 @@
-# Hey, I'm Paramjeet 👋
+# Hey, I'm Dinesh 
 
 Systems-focused developer working toward expertise in performance-critical domains —
 database internals, HFT infrastructure, and low-level C++.
